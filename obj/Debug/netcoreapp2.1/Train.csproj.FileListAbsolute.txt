@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Train/Train/bin/Debug/netcoreapp2.1/Train.deps.json
+/Users/admin/Desktop/Train/Train/bin/Debug/netcoreapp2.1/Train.runtimeconfig.json
+/Users/admin/Desktop/Train/Train/bin/Debug/netcoreapp2.1/Train.runtimeconfig.dev.json
+/Users/admin/Desktop/Train/Train/bin/Debug/netcoreapp2.1/Train.dll
+/Users/admin/Desktop/Train/Train/bin/Debug/netcoreapp2.1/Train.pdb
+/Users/admin/Desktop/Train/Train/obj/Debug/netcoreapp2.1/Train.csprojAssemblyReference.cache
+/Users/admin/Desktop/Train/Train/obj/Debug/netcoreapp2.1/Train.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Train/Train/obj/Debug/netcoreapp2.1/Train.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Train/Train/obj/Debug/netcoreapp2.1/Train.AssemblyInfo.cs
+/Users/admin/Desktop/Train/Train/obj/Debug/netcoreapp2.1/Train.dll
+/Users/admin/Desktop/Train/Train/obj/Debug/netcoreapp2.1/Train.pdb
